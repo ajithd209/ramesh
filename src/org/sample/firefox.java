@@ -23,4 +23,7 @@ System.out.println(text);
 
 
 }
+private void output() {
+System.out.println("output");
+}
 }
