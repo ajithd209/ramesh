@@ -20,10 +20,15 @@ txtid.click();
 WebElement txtname = driver.findElement(By.xpath("//h3[contains(text(),'Best Selenium Training')]"));
 String text = txtname.getText();
 System.out.println(text);
-
+ 
 
 }
+private void add() {
+System.out.println("add");
+}
+
 private void output() {
 System.out.println("output");
-}
-}
+
+
+}}
