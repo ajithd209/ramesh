@@ -26,4 +26,9 @@ System.out.println(text);
 private void add() {
 System.out.println("add");
 }
-}
+
+private void output() {
+System.out.println("output");
+
+
+}}
